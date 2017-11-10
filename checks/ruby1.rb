@@ -1,2 +1,2 @@
 #!/usr/bin/ruby
-puts "test"
+puts "test this"
